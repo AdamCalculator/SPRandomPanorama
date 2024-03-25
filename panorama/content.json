@@ -1,0 +1,30 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "panorama",
+		"files": {
+			"pack.mcmeta": {
+				"hash": "a0fc4585e30a60594f997be289abad7d39aa84ae"
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_3.png": {
+				"hash": "85e0e8dc513ecc586822a26fb42edce1dbcf4118"
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_4.png": {
+				"hash": "f0fd7850ccdfe1ab76d068c06aac57f0a6ecafa0"
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_1.png": {
+				"hash": "b81f4e4717af34568f414a6daa2588d84884aaf8"
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_5.png": {
+				"hash": "7cf2411f7e93f04e7ef7e2239e5cb643368a1d83"
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_0.png": {
+				"hash": "8a0dc6cfa59e1c9fe7e9653ec0afdc2f3070602b"
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_2.png": {
+				"hash": "5a53fd0b0a80674e31ce2ae7c6a151ad975745c1"
+			}
+		}
+	}
+}

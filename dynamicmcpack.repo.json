@@ -1,19 +1,14 @@
 {
 	"formatVersion": 1,
-	"build": 8,
-	"name": "CursedEveryday",
+	"build": 1,
+	"name": "SPRandomPanorama",
 	"contents": [
 		{
-			"url": "content_meta/content.json",
-			"hash": "e8f92834c66a8c6809325c1520694e229eb3b692",
-			"id": "meta",
-			"required": true
-		},
-		{
-			"url": "content_cursed/content.json",
-			"hash": "734de1f3020f241ee10676dc02490d7e9f71d64e",
-			"id": "cursed",
-			"name": "Cursed content"
+			"name": "\u00a72\u0421\u0430\u043c\u0430 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0430",
+			"required": true,
+			"url": "panorama/content.json",
+			"hash": "35ef51461871fbcfa05febdafe9e6465adefbfbc",
+			"id": "panorama"
 		}
 	]
 }
