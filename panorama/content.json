@@ -5,25 +5,25 @@
 		"remote_parent": "panorama",
 		"files": {
 			"pack.mcmeta": {
-				"hash": "c9ba0d86a2f6a5167d77b990f824f855c8117133"
+				"hash": "ff6b1ba7085cad1947e90754bd99e6d38f5b4d00"
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_3.png": {
-				"hash": "59066e80127309ffdfa3e95d121374b4433997d7"
+				"hash": "7fd75be1f90cf8e6d1ff94a47c7441b50cf86a3c"
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_4.png": {
-				"hash": "ab9bffa29cc80c383b0b9ad276b978e943eb5e6a"
+				"hash": "e90b1f6402f6bd881d3062b04e3a5f183739b52f"
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_1.png": {
-				"hash": "b2e044c1f712be5e453e197779d88716ed1dc86a"
+				"hash": "552bcaffd2e8ed2f43e6368ecb90137ab2ab6a63"
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_5.png": {
-				"hash": "b7d71cadf8c1de39c722bf36e8333e082b845b3d"
+				"hash": "1617a68c0de0501887e6745f685fd315cf361d09"
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_0.png": {
-				"hash": "3649c612c38a4268e51d62551ebc96cfcdba8aeb"
+				"hash": "59fcca8c003ce2080fe6aeae6d55f770a5dcc3be"
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_2.png": {
-				"hash": "c11cc8611d666a5bd7ad7d80b9289d1060a420db"
+				"hash": "185b3723ab11b5cd64cdf8b4f09b84edcb3b68bc"
 			}
 		}
 	}
