@@ -3,9 +3,15 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 4
+DVER = 7
 DDEBUG = False
 #
+
+
+import argparse
+parser = argparse.ArgumentParser(description='DynamicPack')
+parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
+args = parser.parse_args()
 
 
 import json
@@ -30,7 +36,11 @@ convert_line_ending_rules = {
     ".mcmeta": True,
     ".json": True,
     ".jem": True,
-    ".properties": True
+    ".properties": True,
+    ".fsh": True,
+    ".vsh": True,
+    ".lang": True,
+    ".DS_Store": False
 }
 
 
@@ -51,7 +61,13 @@ def main():
     print("  \\ Sync selected content with filesystem")
     print(" [5] Re-calculate hashes of exist added to contents files")
     print(" [6] Find no added to contents files")
-    act = input("\t\t-> ")
+
+    if (args.mode == "no_default"):
+        act = input("\t\t-> ")
+
+    else:
+        act = args.mode
+        print("Automatically mode parsed from args: " + act)
 
     if act == "1":
         for x in contents:
@@ -203,7 +219,7 @@ def remake_content(file, ask_subdir=True):
         print("No exists packs... Create already!")
         return
 
-    remDir = os.path.dirname(file)
+    remDir = contents[file]["content"]["remote_parent"]
     directory = contents[file]["content"]["parent"]
     if ask_subdir:
         directory = input(f"Subdirectory to scan (in remote_parent={remDir}) -> ")
