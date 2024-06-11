@@ -1,13 +1,13 @@
 {
 	"formatVersion": 1,
-	"build": 8,
+	"build": 9,
 	"name": "SPRandomPanorama",
 	"contents": [
 		{
 			"name": "\u00a72\u0421\u0430\u043c\u0430 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0430",
 			"required": true,
 			"url": "panorama/content.json",
-			"hash": "c2370125290258dabddd036c51911e84a4a8b7d8",
+			"hash": "d5666dfe504130067253baa8a92fb49364ec99ee",
 			"id": "panorama"
 		}
 	]
