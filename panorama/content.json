@@ -9,24 +9,28 @@
 				"size": 133
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_4.png": {
-				"hash": "5b3187cab63df43972e8718ec2b377479780a395",
-				"size": 241548
+				"hash": "460b3d70b46264c5d7ef3dbe47580157b560c44b",
+				"size": 232597
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_2.png": {
-				"hash": "6ec9d4d9b5f929a847ae8dc20d4cdab18cd3b79f",
-				"size": 1353649
+				"hash": "8b9aa90cea55390a16e61c15ec2b0ce40d431125",
+				"size": 5657317
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_5.png": {
+				"hash": "fd637439ceb81d54b84cc9db64156e5422988eb1",
+				"size": 7361313
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_0.png": {
-				"hash": "4252b279798c682968f82c132b7f482fca32f8d4",
-				"size": 3684947
+				"hash": "101c8d6953a0faaa71dc86c2ca03ad36ab6c658f",
+				"size": 5208809
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_1.png": {
-				"hash": "192ef46166a4172cedaa13ca0845c13f52ab71c1",
-				"size": 4006505
+				"hash": "931f5044fab7583fb2e6d215d59ccf87fa56c633",
+				"size": 6385294
 			},
 			"assets/minecraft/textures/gui/title/background/panorama_3.png": {
-				"hash": "9bb042b9fd437102de1e73096a6559fb163d5b6b",
-				"size": 2310091
+				"hash": "b8290dfcb5d0d730acba055aa5b83c44f194a7b9",
+				"size": 6097036
 			}
 		}
 	}
